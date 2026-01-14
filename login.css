@@ -48,3 +48,15 @@ button:hover {
     margin-top: 10px;
     font-size: 14px;
 }
+
+.forgot-password {
+    margin-top: 10px;
+    color: #007BFF;
+    cursor: pointer;
+    text-decoration: underline;
+    font-size: 14px;
+}
+
+.forgot-password:hover {
+    color: #0056b3;
+}
