@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">App Name</string>
+    <string name="app_desc">Short description of the system goes here. Short instruction text.</string>
+    <string-array name="role">
+        <item>Resident</item>
+        <item>Staff</item>
+        <item>Admin</item>
+    </string-array>
+</resources>
